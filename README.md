@@ -29,3 +29,10 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ![3 mobile](https://github.com/user-attachments/assets/e8fbe1aa-8c7e-48f2-b909-bf907c22ea21)
 ![4 mobile active](https://github.com/user-attachments/assets/87773adb-6b8c-4c42-b216-058479b84343)
 
+
+
+### Links
+
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
