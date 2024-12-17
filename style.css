@@ -1,0 +1,191 @@
+/* google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Manrope:wght@200..800&family=Montagu+Slab:opsz,wght@16..144,100..700&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Manrope:wght@200..800&family=Montagu+Slab:opsz,wght@16..144,100..700&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+/* google fonts */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100%;
+    height: 94vh;
+    background-color: black;
+}
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 90%;
+    height: 90%;   
+    margin: 0 auto;
+    margin-top: 70px;
+    background-color: hsl(30, 38%, 92%);
+}
+
+
+/* card style start here */
+.card{
+    display: flex;
+    width: 600px;
+    height: 450px;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 10px;
+   
+    
+}
+.card:hover{
+    box-shadow: 10px 10px 40px rgb(245, 127, 182);
+}
+/* card style end here */
+
+        
+
+             /* card image section style start */
+             .card .img{
+                width: 50%;
+                height: 100%;
+                text-align: left;
+            }
+            .main-img{
+                max-width: 100%;
+                height: 100%;
+                border-top-left-radius: 10px;
+                border-bottom-left-radius: 10px;
+                
+            }
+            .mobile-img{
+                display: none;
+            }
+             /* card image section style end */
+
+
+
+
+        
+        /* card details section style start */
+           .card .card-info{
+            width: 50%;
+            height: 100%;
+            padding: 15px;
+            padding-left: 25px;
+            
+        }
+        
+        .card .card-info .letter-sapce{
+            letter-spacing: 10px;
+        }
+        
+        .card .card-info h1{
+            width: 65%;
+            font-family: "Fraunces", serif;
+            font-weight: 700;         
+            margin-top:20px;           
+        }
+
+        .card .card-info p{
+            width: 90%;
+            margin-top: 20px;          
+            color: hsl(228, 12%, 48%);
+        }
+
+        .card .card-info .price{
+            display: flex;
+            margin-top: 15px;
+            align-items: center;
+        
+        }
+
+        .card .card-info .h1{
+            font-family: "Fraunces", serif;
+            font-weight: 700;
+            color: hsl(158, 36%, 37%);
+        }
+        
+        
+        button{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+            width: 80%;
+            height: 40px;
+            margin: 0 auto;
+            margin-top: 30px;
+            font-size: 20px;
+            border: none;
+            border-radius: 5px;
+            background-color: hsl(158, 36%, 37%);
+        }
+
+        button:hover{
+            background-color: hsl(160, 67%, 18%) ;
+            cursor: pointer;
+        }
+        
+        button h5{
+            color: white;
+            margin-left: 10px;
+        }
+        
+        /* card details section style end */
+
+
+
+
+
+
+
+/*  style for mobile screen  */
+@media (max-width: 767px){
+
+
+    section{
+        height: 90%;
+    }
+
+
+    .card{
+        width: 80%;
+        height: 95%;
+       display: flex;
+       flex-direction: column;  
+    }
+    
+
+    .card .img{
+        width: 100%;
+        height: 37%;
+        
+    }
+    
+    
+    .main-img{
+        display: none;
+    }
+
+    .mobile-img{
+        display: inline-block;
+        width: 100%;
+        height: 100%;
+    }
+
+    .mobile-img img{
+        width: 100%;
+        height: 100%;
+        border-radius: 10px 10px 0 0;
+    }
+
+    .card .card-info {
+        width: 100%;
+    }
+
+    .card .card-info h1{
+        width: 90%;
+    }
+}
