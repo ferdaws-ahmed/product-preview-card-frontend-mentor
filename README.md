@@ -33,6 +33,44 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Sulution Here](https://gabby-behavior.surge.sh/)
+- Live Site URL: [Live Link](https://gabby-behavior.surge.sh/)
+
+
+## My process
+
+### Built with
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS
+- CSS Media Querie
+
+
+
+### Continued development
+
+Having built the foundation of this project with HTML and CSS, I aim to enrich its user experience by expanding my knowledge of JavaScript and incorporating more dynamic elements.
+
+
+
+### Useful resources
+
+- [w3 schools](https://www.w3schools.com/) 
+- [stack over flow](https://stackoverflow.com/)
+
+
+
+## Author
+
+- [Md.Ferdaws Alif]
+- Frontend Mentor - [@alif-mahmuud](https://www.frontendmentor.io/profile/alif-mahmuud)
+
+- github [ @ferdaws-ahmed ](https://github.com/ferdaws-ahmed)
+
+
+
+## Acknowledgments
+
+W3Schools and Stack Overflow were my go-to for this project. They're super helpful! If you get stuck, check out their detailed guides. They'll save you a ton of time.
 
