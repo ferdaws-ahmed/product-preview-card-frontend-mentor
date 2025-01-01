@@ -75,3 +75,4 @@ Having built the foundation of this project with HTML and CSS, I aim to enrich i
 
 W3Schools and Stack Overflow were my go-to for this project. They're super helpful! If you get stuck, check out their detailed guides. They'll save you a ton of time.
 
+
