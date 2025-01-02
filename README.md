@@ -31,7 +31,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 
 
-### Links
+### Links  
 
 - Solution URL: [Sulution Here](https://gabby-behavior.surge.sh/)
 - Live Site URL: [Live Link](https://gabby-behavior.surge.sh/)
