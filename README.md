@@ -17,7 +17,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - [Acknowledgments]
 
 ## Overview
-
+ 
 
 ### The challenge
 - View the optimal layout depending on their device's screen size
