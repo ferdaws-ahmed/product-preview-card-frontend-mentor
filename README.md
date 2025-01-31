@@ -8,7 +8,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [The challenge]
   - [Screenshot]
   - [Links]  
-- [My process] 
+- [My process]  
   - [Built with]  
   - [What I learned]
   - [Continued development]
