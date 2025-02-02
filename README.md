@@ -9,7 +9,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Screenshot] 
   - [Links]     
 - [My process]   
-  - [Built with]   
+  - [Built with]    
   - [What I learned] 
   - [Continued development]  
   - [Useful resources] 
