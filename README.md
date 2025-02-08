@@ -10,7 +10,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Links]      
 - [My process]   
   - [Built with]     
-  - [What I learned] 
+  - [What I learned]  
   - [Continued development]   
   - [Useful resources] 
 - [Author] 
