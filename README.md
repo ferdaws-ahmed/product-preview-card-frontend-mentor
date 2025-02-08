@@ -11,7 +11,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - [My process]   
   - [Built with]    
   - [What I learned] 
-  - [Continued development]  
+  - [Continued development]   
   - [Useful resources] 
 - [Author] 
 - [Acknowledgments]
